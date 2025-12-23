@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-A database built in ms access for a delivery company that stores customer details and their delivery's details .This application controls and manages customer orders, queries and displays certain infromation using forms and reports
+A database built in ms access for a delivery company that stores customer details and their delivery's details .This application controls and manages customer orders, queries and displays certain information using forms and reports
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Business Deliveries Database
