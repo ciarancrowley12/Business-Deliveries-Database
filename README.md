@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------
-A basic java stock control system that lets the user sign in as a customer or staff member to update the stock / add stock and buy items
+A database built in ms access for a delivery company that stores customer details and their delivery's details .This application controls and manages customer orders, queries and displays certain infromation using forms and reports
 ------------------------------------------------------------------------
 
-PROJECT TITLE: Stock control system 
-PURPOSE OF PROJECT: To pratice storing information and presenting it back to the user and getting use to making practical projects
+PROJECT TITLE: Business Deliveries Database
+PURPOSE OF PROJECT: To work with ms access and build a project from stratch to get use to dealing with databases in ms access and to learn queries
 VERSION or DATE: 1.0
